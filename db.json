@@ -40,5 +40,16 @@
      "harga" : 1799000,
      "detail" : "Sebuah evolusi dari sepatu platform paling populer kami yang pernah ada yakni Run Star Hike, Run Star Motion membawa gaya Anda lebih baik lagi. Sepatu kanvas ikonis low-top hadir bersamaan dengan outsole yang tebal dan lebih, serta detail midsole bergelombang untuk tampilan yang sungguh unik." 
     }
-  ]
+  ],
+"Diskon" : [
+    {
+     "nama" : "Converse Chuck Taylor x Joe Freshgoods",
+     "color" : "Printed",
+     "kode" : "C-024",
+     "Image" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON171546C-1.jpg",
+     "harga" : 999999,
+     "diskon" : 666666,
+     "detail" : "Limited Edition - Converse Chuck Taylor x Joe Freshgoods, hanya tersedia 5.000 pcs di seluruh dunia."
+    }
+]
 }
